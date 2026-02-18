@@ -1,10 +1,13 @@
 import csv
+import sys
+import csv
 from pathlib import Path
 
 
-def stream_rrf(file_path):
-    with open(file_path, encoding= "utf-8") as f:
-        reader = csv.reader(f, delimiter='|')
+def stream_rrf(path):
+    with open(path, encoding="utf-8") as f:
+        csv.field_size_limit(sys.maxsize)
+        reader = csv.reader(f, delimiter="|")
         for row in reader:
             yield row
 
@@ -25,8 +28,10 @@ def load_mesh_concepts(mrconso_path):
     return concepts
 
 
-def load_mesh_relationships(mrrel_path):
+def load_mesh_relationships(mrrel_path, mesh_cuis):
     relationships = []
+    mesh_set = set(mesh_cuis)
+
     for row in stream_rrf(mrrel_path):
         cui1 = row[0]
         rel = row[3]
@@ -34,12 +39,12 @@ def load_mesh_relationships(mrrel_path):
         suppress = row[14]
         if suppress == "Y":
             continue
-        if rel not in ("PAR", "CHD"):
+        if rel != "CHD":
             continue
-        relationships.append({
-            "child": cui1,
-            "parent": cui2
-        })
+        if cui1 in mesh_set and cui2 in mesh_set:
+            relationships.append({
+                "child": cui1,
+                "parent": cui2    })
     return relationships
 
 

@@ -9,6 +9,3 @@ __pycache__/
 # Raw UMLS (do NOT commit)
 data/umls/
 
-# Outputs (do NOT commit)
-outputs/
-*.csv

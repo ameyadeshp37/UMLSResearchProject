@@ -6,16 +6,19 @@ from src.seed import find_mesh_seed
 from src.expand import expand_mesh
 from src.build_tables import build_nodes, build_edges
 
+config_path = Path('config/config.yaml')
 
 def main():
-    with open("config.yaml") as f:
+    with open(config_path) as f:
         config = yaml.safe_load(f)
     umls_dir = Path(config["umls"]["dir"])
 
     # Load MeSH concepts + hierarchy
     concepts = load_mesh_concepts(umls_dir / config["umls"]["mrconso"])
-    relationships = load_mesh_relationships(umls_dir / config["umls"]["mrrel"])
-
+    relationships = load_mesh_relationships(
+    umls_dir / config["umls"]["mrrel"],
+    concepts.keys())
+    
     # Find seed CUI
     seed_term = config["seed"]["mesh_strings"][0]
     seed_cui = find_mesh_seed(concepts, seed_term)
