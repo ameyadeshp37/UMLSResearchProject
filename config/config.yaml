@@ -1,0 +1,21 @@
+umls:
+  dir: data/umls
+  mrconso: MRCONSO.RRF
+  mrrel: MRREL.RRF
+
+seed:
+  mesh_strings:
+    - Breast Neoplasms
+  
+graph:
+  include_rel:
+    - PAR
+    - CHD
+  exclude_suppress: true
+  hops: 3
+  max_nodes: 200000
+  max_edges: 400000
+
+export:
+  nodes_csv: outputs/nodes.csv
+  edges_csv: outputs/edges.csv

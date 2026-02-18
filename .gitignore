@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Raw UMLS (do NOT commit)
+data/umls/
+
+# Outputs (do NOT commit)
+outputs/
+*.csv
