@@ -1,0 +1,458 @@
+1. Biomed Res Int. 2015;2015:217047. doi: 10.1155/2015/217047. Epub 2015 Oct 11.
+
+Medication Adherence Measures: An Overview.
+
+Lam WY(1), Fresco P(2).
+
+Author information:
+(1)UCL School of Pharmacy, 29-39 Brunswick Square, London WC1N 1AX, UK.
+(2)Department of Drug Sciences, Laboratory of Pharmacology, Faculty of Pharmacy, 
+University of Porto, Rua Jorge Viterbo Ferreira 228, 4050-313 Porto, Portugal.
+
+WHO reported that adherence among patients with chronic diseases averages only 
+50% in developed countries. This is recognized as a significant public health 
+issue, since medication nonadherence leads to poor health outcomes and increased 
+healthcare costs. Improving medication adherence is, therefore, crucial and 
+revealed on many studies, suggesting interventions can improve medication 
+adherence. One significant aspect of the strategies to improve medication 
+adherence is to understand its magnitude. However, there is a lack of general 
+guidance for researchers and healthcare professionals to choose the appropriate 
+tools that can explore the extent of medication adherence and the reasons behind 
+this problem in order to orchestrate subsequent interventions. This paper 
+reviews both subjective and objective medication adherence measures, including 
+direct measures, those involving secondary database analysis, electronic 
+medication packaging (EMP) devices, pill count, and clinician assessments and 
+self-report. Subjective measures generally provide explanations for patient's 
+nonadherence whereas objective measures contribute to a more precise record of 
+patient's medication-taking behavior. While choosing a suitable approach, 
+researchers and healthcare professionals should balance the reliability and 
+practicality, especially cost effectiveness, for their purpose. Meanwhile, 
+because a perfect measure does not exist, a multimeasure approach seems to be 
+the best solution currently.
+
+DOI: 10.1155/2015/217047
+PMCID: PMC4619779
+PMID: 26539470 [Indexed for MEDLINE]
+
+
+2. Int J Mol Sci. 2018 Jun 5;19(6):1669. doi: 10.3390/ijms19061669.
+
+Pathophysiological Mechanisms of Chronic Venous Disease and Implications for 
+Venoactive Drug Therapy.
+
+Mansilha A(1)(2), Sousa J(3)(4).
+
+Author information:
+(1)Departamento de Cirurgia e Fisiologia, Faculdade de Medicina da Universidade 
+do Porto, 4200-319 Porto, Portugal. mansilha@portoclinica.com.
+(2)Departamento de Angiologia e Cirurgia Vascular, Hospital CUF Porto, 4100-180 
+Porto, Portugal. mansilha@portoclinica.com.
+(3)Departamento de Cirurgia e Fisiologia, Faculdade de Medicina da Universidade 
+do Porto, 4200-319 Porto, Portugal. joel.sousa@jmellosaude.pt.
+(4)Departamento de Angiologia e Cirurgia Vascular, Hospital CUF Porto, 4100-180 
+Porto, Portugal. joel.sousa@jmellosaude.pt.
+
+Chronic venous disease (CVD) is a common pathology, with significant physical 
+and psychological impacts for patients and high economic costs for national 
+healthcare systems. Throughout the last decades, several risk factors for this 
+condition have been identified, but only recently, have the roles of 
+inflammation and endothelial dysfunction been properly assessed. Although still 
+incompletely understood, current knowledge of the pathophysiological mechanisms 
+of CVD reveals several potential targets and strategies for therapeutic 
+intervention, some of which are addressable by currently available venoactive 
+drugs. The roles of these drugs in the clinical improvement of venous tone and 
+contractility, reduction of edema and inflammation, as well as in improved 
+microcirculation and venous ulcer healing have been studied extensively, with 
+favorable results reported in the literature. Here, we aim to review these 
+pathophysiological mechanisms and their implications regarding currently 
+available venoactive drug therapies.
+
+DOI: 10.3390/ijms19061669
+PMCID: PMC6032391
+PMID: 29874834 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+sponsor reviewed a draft of the manuscript but had no role in the decision to 
+publish the final version.
+
+
+3. Clin Pharmacokinet. 1985 Nov-Dec;10(6):498-513. doi: 
+10.2165/00003088-198510060-00003.
+
+Interpretation of drug levels in acute and chronic disease states.
+
+Perucca E, Grimaldi R, Crema A.
+
+Serum drug concentration monitoring can be an invaluable aid to patient 
+management, particularly in certain pathological conditions when 
+individualisation of dosage is particularly critical. To be clinically useful, 
+however, drug levels must be interpreted in the context of all factors that 
+could influence the correlation between the concentration of the drug in plasma 
+and the intensity of action. Several such factors may be operating in acute and 
+chronic disease states. For example, a number of pathological conditions are 
+associated with marked changes in the fraction of free, pharmacologically active 
+drug in plasma and this will result in disruption of the normal relationship 
+between total serum drug level and effect, as seen for phenytoin in uraemia. An 
+altered response to a given serum drug level in disease states may also be 
+caused by changes in tissue distribution, by abnormal accumulation of 
+pharmacologically active metabolites in plasma or by changes in end-organ 
+responsiveness. The latter are best illustrated by the altered sensitivity to 
+digoxin in patients with various conditions, including hypokalaemia and thyroid 
+disease. In addition to the factors listed above, consideration should also be 
+given to potential interactions with concomitantly used drugs and to the 
+possibility of analytical errors, especially in view of the evidence that the 
+performance of otherwise reliable drug assays may be grossly impaired in certain 
+diseases (e.g. uraemia), due to abnormal plasma composition and/or accumulation 
+of interfering metabolites. In view of these complexities, a correct 
+interpretation of serum drug levels requires a good knowledge of clinical 
+pharmacology and a close collaboration between physician and laboratory. In any 
+case, serum drug concentrations, like other laboratory tests, are not a 
+substitute for careful patient observation, and any decision about drug 
+treatment should be primarily based upon evaluation of the clinical state and, 
+whenever possible, direct measurement of drug effects.
+
+DOI: 10.2165/00003088-198510060-00003
+PMID: 3905165 [Indexed for MEDLINE]
+
+
+4. JAMA. 2024 May 14;331(18):1519-1521. doi: 10.1001/jama.2024.1017.
+
+Could GLP-1 Receptor Agonists Like Semaglutide Treat Addiction, Alzheimer 
+Disease, and Other Conditions?
+
+Rubin R(1).
+
+Author information:
+(1)Lead Senior Staff Writer, Medical News & Perspectives, JAMA.
+
+Plain Language Summary: This Medical News story examines other potential uses of 
+GLP-1 receptor agonists, the popular type 2 diabetes and weight-loss drugs.
+
+DOI: 10.1001/jama.2024.1017
+PMID: 38639975 [Indexed for MEDLINE]
+
+
+5. Ethn Health. 2023 Nov;28(8):1145-1160. doi: 10.1080/13557858.2023.2224949. Epub 
+2023 Jun 18.
+
+Chronic disease multimorbidity and substance use among African American men: 
+veteran-non-veteran differences.
+
+Bennett MD Jr(1), McDaniel JT(2), Albright DL(3).
+
+Author information:
+(1)School of Social Work, University of Arkansas, Fayetteville, AR, USA.
+(2)School of Human Sciences, Southern Illinois University Carbondale, 
+Carbondale, IL, USA.
+(3)Department of Political Science, The University of Alabama, Tuscaloosa, AL, 
+USA.
+
+OBJECTIVES: The purpose of the study was to explore the extent to which prior 
+military service may moderate the relationship between chronic disease 
+multimorbidity and substance use among African American men in the United 
+States.
+DESIGN: Data for this cross-sectional study was downloaded from the 2016 -2019 
+United States (US) National Survey on Drug Use and Health. We estimated three 
+survey-weighted multivariable logistic regression models, where use of each of 
+the following substances served as the dependent variables: illicit drugs, 
+opioids, and tobacco. Differences in these outcomes were examined along two 
+primary independent variables: veteran status and multimorbidity (and an 
+interaction term for these variables). We also controlled for the following 
+covariates: age, education, income, rurality, criminal behavior, and 
+religiosity.
+RESULTS: From the 37,203,237 (weighted N) African American men in the sample, 
+approximately 17% reported prior military service. Veterans with ≥ 2 chronic 
+diseases had higher rates of illicit drug use (aOR = 1.37, 95% CI = 1.01, 1.87; 
+32% vs. 28%) than non-veterans with ≥ 2 chronic diseases. Non-veterans with one 
+chronic disease had higher rates of tobacco use (aOR = 0.80, 95% CI = 0.69, 
+0.93; 29% vs. 26%) and opioid misuse (aOR = 0.49, 95% CI = 0.36, 0.67; 29% vs. 
+18%) than veterans with one chronic disease.
+DISCUSSION: Chronic disease multi-morbidity appears to be a context in which 
+African American veterans may be at greater risk for certain undesirable health 
+behaviors than African American non-veterans and at lower risk for others. This 
+may be due to exposure to trauma, difficulty accessing care, socio-environmental 
+factors, and co-occurring mental health conditions. These complex interactions 
+may contribute to higher rates of SUDs among African American veterans compared 
+to African American non-veterans.
+
+DOI: 10.1080/13557858.2023.2224949
+PMID: 37331990 [Indexed for MEDLINE]
+
+
+6. BMC Med. 2024 Nov 27;22(1):479. doi: 10.1186/s12916-024-03646-y.
+
+Chronic disease diagnoses and health service use among people who died of 
+illicit drug toxicity in British Columbia, Canada.
+
+Palis H(1), Hu K(2), Tu A(3), Scheuermeyer F(4), Staples JA(5), Moe J(6), 
+Haywood B(2), Desai R(2), Xavier CG(2), Xavier JC(2), Crabtree A(7), Slaunwhite 
+A(7).
+
+Author information:
+(1)BC Centre for Disease Control, UBC School of Population and Public Health, 
+Vancouver, Canada. heather.palis@bccdc.ca.
+(2)BC Centre for Disease Control, Vancouver, Canada.
+(3)BC Coroners Service, Burnaby, Canada.
+(4)Department of Emergency Medicine, Center for Advancing Health Outcomes, St 
+Paul's Hospitaland the, University of British Columbia, Vancouver, Canada.
+(5)Division of General Internal Medicine, Department of Medicine, Centre for 
+Clinical Epidemiology & Evaluation (C2E2), University of British Columbia, 
+Vancouver, Canada.
+(6)Department of Emergency Medicine, UBC, BC Centre for Disease Control, 
+Vancouver, Canada.
+(7)BC Centre for Disease Control, UBC School of Population and Public Health, 
+Vancouver, Canada.
+
+BACKGROUND: Illicit drug toxicity (i.e., overdose) is the leading cause of death 
+in British Columbia (BC) for people aged 10-59. Stimulants are increasingly 
+detected among drug toxicity deaths. As stimulant use and detection in deaths 
+rises, it is important to understand how people who die of stimulant toxicity 
+differ from people who die of opioid toxicity.
+METHODS: BC Coroners Service records were retrieved for all people who died of 
+unintentional illicit drug toxicity (accidental or undetermined) between January 
+1, 2015, and December 31, 2019, whose coroner investigation had concluded and 
+who had an opioid and/or stimulant detected in post-mortem toxicology and 
+identified by the coroner as relevant to the death (N = 3788). BC Chronic 
+Disease Registry definitions were used to identify people with chronic disease. 
+Multinomial regression models were used to examine the relationship between 
+chronic disease diagnoses and drug toxicity death type.
+RESULTS: Of the 3788 deaths, 11.1% (N = 422) had stimulants but not opioids 
+deemed relevant to the cause of death (stimulant group), 26.8% (N = 1014) had 
+opioids but not stimulants deemed relevant (opioid group), and 62.1% (N = 2352) 
+had both opioids and stimulants deemed relevant (opioid/stimulant group). People 
+with ischemic heart disease (1.80 (1.14-2.85)) and people with heart failure 
+(2.29 (1.25-4.20)) had approximately twice the odds of being in the stimulant 
+group as compared to the opioid group.
+CONCLUSIONS: Findings suggest that people with heart disease who use illicit 
+stimulants face an elevated risk of drug toxicity death. Future research should 
+explore this association and should identify opportunities for targeted 
+interventions to reduce drug toxicity deaths among people with medical 
+comorbidities.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12916-024-03646-y
+PMCID: PMC11600560
+PMID: 39593053 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Data were assembled in the context of BC’s 
+provincial overdose public health emergency under a Public Health Order. Consent 
+for publication: Not applicable. Competing interests: The authors declare no 
+competing interests.
+
+
+7. Front Public Health. 2022 Dec 13;10:1023022. doi: 10.3389/fpubh.2022.1023022. 
+eCollection 2022.
+
+Governance mechanisms for chronic disease diagnosis and treatment systems in the 
+post-pandemic era.
+
+Zhang L(1), Wang X(1), Xiao H(1), Ma C(1), Li X(2), Dai G(1), Liu Y(1), Du Y(3), 
+Song Y(1).
+
+Author information:
+(1)School of Business, Qingdao University, Qingdao, China.
+(2)Department of Orthopedic Surgery, The People's Hospital of Jimo, Qingdao, 
+China.
+(3)School of International Business, Shenyang Normal University, Shenyang, 
+China.
+
+"Re-visits and drug renewal" is difficult for chronic disease patients during 
+COVID-19 and will continue in the post-pandemic era. To overcome this dilemma, 
+the scenario of chronic disease diagnosis and treatment systems was set, and an 
+evolutionary game model participated by four stakeholder groups including 
+physical medical institutions, medical service platforms, intelligent medical 
+device providers, and chronic disease patients, was established. Ten possible 
+evolutionary stabilization strategies (ESSs) with their mandatory conditions 
+were found based on Lyapunov's first method. Taking cardiovascular and 
+cerebrovascular diseases, the top 1 prevalent chronic disease, as a specific 
+case context, and resorting to the MATLAB simulation, it is confirmed that 
+several dual ESSs and four unique ESS circumstances exist, respectively, and the 
+evolution direction is determined by initial conditions, while the evolution 
+speed is determined by the values of the conditions based on the quantitative 
+relations of benefits, costs, etc. Accordingly, four governance mechanisms were 
+proposed. By their adjustment, the conditions along with their values can be 
+interfered, and then the chronic disease diagnosis and treatment systems can be 
+guided toward the desired direction, that is, toward the direction of 
+countermeasure against the pandemic, government guidance, global trends of 
+medical industry development, social welfare, and lifestyle innovation. The 
+dilemma of "Re-visits and drug renewal" actually reflects the uneven 
+distribution problem of qualified medical resources and the poor impact 
+resistance capability of social medical service systems under mass public 
+emergency. Human lifestyle even the way of working all over the world will get a 
+spiral upgrade after experiencing COVID-19, such as consumption, and meeting, 
+while medical habits react not so rapidly, especially for mid or aged chronic 
+disease patients. We believe that telemedicine empowered by intelligent medical 
+devices can benefit them and will be a global trend, governments and the four 
+key stakeholders should act according to the governance mechanisms suggested 
+here simultaneously toward novel social medical ecosystems for the post-pandemic 
+era.
+
+Copyright © 2022 Zhang, Wang, Xiao, Ma, Li, Dai, Liu, Du and Song.
+
+DOI: 10.3389/fpubh.2022.1023022
+PMCID: PMC9792788
+PMID: 36582374 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+8. Chronic Illn. 2024 Dec;20(4):640-654. doi: 10.1177/17423953231185385. Epub 2023 
+Jul 4.
+
+Patients' perception towards chronic disease self-management and its program: A 
+cross-sectional survey.
+
+Halim NAA(1), Sopri NHA(1), Wong YY(1)(2), Mustafa QM(3), Lean QY(1)(4).
+
+Author information:
+(1)Faculty of Pharmacy, Universiti Teknologi MARA, Cawangan Pulau Pinang, Kampus 
+Bertam, Kepala Batas, Pulau Pinang, Malaysia.
+(2)Collaborative Drug Discovery Research (CDDR) Group, Faculty of Pharmacy, 
+University Teknologi MARA (UiTM) Cawangan Selangor, Kampus Puncak Alam, 
+Selangor, Malaysia.
+(3)Faculty of Health Sciences, Universiti Teknologi MARA, Cawangan Pulau Pinang, 
+Kampus Bertam, Kepala Batas, Pulau Pinang, Malaysia.
+(4)Vector-Borne Diseases Research Group (VERDI), Pharmaceutical and Life 
+Sciences CoRe, Universiti Teknologi MARA, Shah Alam, Selangor, Malaysia.
+
+OBJECTIVE: This study aimed to assess the perceptions towards chronic disease 
+self-management and its program among patients with chronic diseases.
+METHODS: A cross-sectional study using pre-validated questionnaire was conducted 
+among patients with chronic diseases at outpatient pharmacy in a hospital in 
+Penang, Malaysia from April to June 2021.
+RESULTS: Of 270 patients participated in this study, 87.8% were interested in 
+chronic disease self-management. Nonetheless, they faced common barriers 
+including time constraint (71.1%), no health monitoring devices (44.1%) and poor 
+health knowledge (43.0%). More than half of the patients expressed that having a 
+better knowledge of the disease and its treatment (64.1%), getting supportive 
+guidance from healthcare providers (59.6%) and having monitoring devices (58.1%) 
+were the top three facilitators to self-management. The patients preferred 
+chronic disease self-management programs that (a) discuss the topic of 
+motivation (b) are available both as mobile applications and hands-on training, 
+(c) individual session, (d) range between 1 and 5 sessions with a duration of 1 
+to 2 h/session, (e) occurring on monthly basis, (f) conducted by doctor or 
+healthcare professionals and (g) fully sponsored by government or at affordable 
+fee.
+CONCLUSION: The findings serve as pre-requisite step in future design and 
+development of chronic disease self-management program, targeting the patients' 
+needs and preferences.
+
+DOI: 10.1177/17423953231185385
+PMID: 37403449 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interestsThe 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+9. J Clin Endocrinol Metab. 2022 Mar 24;107(4):e1339-e1347. doi: 
+10.1210/clinem/dgab848.
+
+New Horizons. A New Paradigm for Treating to Target with Second-Generation 
+Obesity Medications.
+
+Garvey WT(1).
+
+Author information:
+(1)Department of Nutrition Sciences, University of Alabama at Birmingham, 
+Birmingham, AL, USA.
+
+In treating obesity as a chronic disease, the essential goal of weight loss 
+therapy is not the quantity of weight loss as an end unto itself but rather the 
+prevention and treatment of complications to enhance health and mitigate 
+morbidity and mortality. This perspective on obesity care is consistent with the 
+complications-centric American Association of Clinical Endocrinology (AACE) 
+obesity guidelines and the diagnostic term of adiposity-based chronic disease 
+(ABCD). Many complications require 10% to 20% weight loss to achieve therapeutic 
+goals; however, existing obesity medications fail to produce ≥10% weight loss in 
+the majority of patients. In June, 2021, semaglutide 2.4 mg/week was approved 
+for chronic weight management. Phase 3 clinical trials demonstrated that this 
+medication produced > 10% placebo-subtracted weight loss, more than half of 
+patents lost ≥15%, and over one third lost ≥20% of baseline weight. This 
+essentially doubles effectiveness over existing obesity medications, provides 
+sufficient weight loss to ameliorate a broad range of complications, and 
+qualifies as the first member of a second-generation class of obesity 
+medications. The advent of second-generation medications fully enables a 
+treat-to-target approach for management of ABCD as a chronic disease. 
+Specifically, with this degree of efficacy, second-generation medications permit 
+active management of body weight as a biomarker to targets associated with 
+effective treatment and prevention of specific complications. ABCD can now be 
+managed similar to other chronic diseases such as type 2 diabetes, hypertension, 
+and atherosclerosis, which are treated to biomarker targets that can be modified 
+based on the clinical status of individual patients [ie, hemoglobin A1c (HbA1c), 
+blood pressure, and low-density lipoprotein cholesterol (LDL-c)] to prevent the 
+respective complications of these diseases.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+Endocrine Society.
+
+DOI: 10.1210/clinem/dgab848
+PMCID: PMC8947217
+PMID: 34865050 [Indexed for MEDLINE]
+
+
+10. J Manag Care Spec Pharm. 2019 May;25(5):573-577. doi: 
+10.18553/jmcp.2019.25.5.573.
+
+Associations Between Chronic Disease, Polypharmacy, and Medication-Related 
+Problems Among Medicare Beneficiaries.
+
+Almodóvar AS(1), Nahata MC(2).
+
+Author information:
+(1)1 Institute of Therapeutic Innovations and Outcomes, The Ohio State 
+University College of Pharmacy, Columbus.
+(2)2 Institute of Therapeutic Innovations and Outcomes, The Ohio State 
+University College of Pharmacy and College of Medicine, Columbus.
+
+BACKGROUND: Mismanaged polypharmacy among older adults costs the health care 
+system approximately $2 billion each year. Medication therapy management (MTM), 
+a service designed to optimize medication use, improve health outcomes, and 
+reduce associated costs, is available to eligible Medicare beneficiaries. Yet, 
+it remains unclear which beneficiaries benefit most from this service.
+OBJECTIVE: To assess associations between patient characteristics, chronic 
+disease, polypharmacy, and medication-related problems (MRPs) in a sample 
+population of Medicare beneficiaries.
+METHODS: This study was a retrospective cross-sectional analysis of 1 Medicare 
+Part D plan provider for the year 2015. Medicare beneficiaries were included if 
+they were eligible to receive MTM services and excluded if they were aged under 
+65 years or the dataset had no count of MRPs for the beneficiary. A negative 
+binomial regression assessed the relationship between age, sex, and chronic 
+health conditions with MRPs. Second and third negative binomial regressions 
+assessed the relationship between age, sex, and polypharmacy with MRPs.
+RESULTS: A sample of 27,765 Medicare beneficiaries had a mean (SD) age of 76 
+(±7) years, were predominantly female (59%), and used a mean (SD) of 11 (±4) 
+chronic medications. Beneficiaries with certain conditions were more likely to 
+incur an MRP than those without, including depression (OR = 1.58; 95% CI = 
+1.51-1.64), congestive heart failure (OR = 1.26; 95% CI = 1.20-1.31), diabetes 
+(OR = 1.24; 95% CI = 1.18-1.29), end-stage renal disease (OR = 1.38; 95% CI = 
+1.25-1.52), respiratory conditions (OR = 1.25; 95% CI = 1.19-1.31), and 
+hypertension (OR = 1.09; 95% CI = 1.01-1.18). Medicare beneficiaries with 
+polypharmacy (11 or more medications) were 1.86 (95% CI = 1.80-1.93) times more 
+likely to experience an MRP than those taking fewer medications. For every 
+additional medication, the odds of incurring an MRP increased by 10% (OR = 1.11; 
+95% CI = 1.10-1.1.11).
+CONCLUSIONS: The diagnosis of depression presented with the strongest 
+association with MRPs. Diabetes, congestive heart failure, end-stage renal 
+disease, respiratory conditions, and hypertension also presented with 
+significant associations with MRPs. Beneficiaries with polypharmacy (11 or more 
+medications) were almost 2 times more likely to experience an MRP than those 
+taking fewer medications. Addition of a chronic medication resulted in a 10% 
+increase in the odds of incurring an MRP. MTM programs may find a greater number 
+of MRPs among those diagnosed with depression in their MTM-eligible patient 
+populations.
+DISCLOSURES: No outside funding supported this research. Silva Almodóvar reports 
+fees from SinfoniaRx, outside the submitted work. Nahata has nothing to 
+disclose.
+
+DOI: 10.18553/jmcp.2019.25.5.573
+PMCID: PMC10398061
+PMID: 31039057 [Indexed for MEDLINE]
+
+Conflict of interest statement: No outside funding supported this research. 
+Silva Almodóvar reports fees from SinfoniaRx, outside the submitted work. Nahata 
+has nothing to disclose.
