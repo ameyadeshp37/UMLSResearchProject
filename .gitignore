@@ -4,8 +4,14 @@
 # Python
 __pycache__/
 *.pyc
+
+# Virtual environments
 .venv/
 
-# Raw UMLS (do NOT commit)
-data/umls/
+# NLP / ML caches
+nltk_data/
+.cache/
+*.npz
 
+# Raw UMLS data (large, licensed)
+data/umls/
